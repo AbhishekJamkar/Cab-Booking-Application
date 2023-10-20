@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "350683427754",
+    "firebase_url": "https://geetaxi-1025a-default-rtdb.firebaseio.com",
+    "project_id": "geetaxi-1025a",
+    "storage_bucket": "geetaxi-1025a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350683427754:android:6cb984a0c86a0167ef71d3",
+        "android_client_info": {
+          "package_name": "com.example.cab_rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBab2LnTV7C8aRw4pV6nt216coLrxAfQ9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
